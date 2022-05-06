@@ -5,11 +5,6 @@
 # Demo
 <a href="#">xxx</a>
 
-## Thành viên
-| Họ & Tên  | MSSV| Lớp|
-| ------------- | ------------- |----------|
-| Nguyễn Thanh Phong    | N16DCCN116  |D16CQCP01|
-| Vũ Đăng Khoa   | N16DCCN078  |D16CQCP01|
 -----------------------------------------------
 ### Giảng viên hướng dẫn
 >>**Thầy Lưu Nguyễn Kỳ Thư**
@@ -43,4 +38,4 @@ Trong cột Dư bán : sẽ lưu tổng khối lượng của 2 giá bán tốt 
 
 -----------------------------------------------
 ## Giao diện
-![4](https://user-images.githubusercontent.com/34712060/84478934-4fbf7d00-acbc-11ea-946b-7d3c323e95e5.PNG)
+![image](https://user-images.githubusercontent.com/76673112/167085292-f844196d-e60d-465a-a1b1-aac138abebf5.png)
